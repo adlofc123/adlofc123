@@ -1,3 +1,15 @@
+{
+    "limitCount": 10,
+    "ownerNumber": "",
+    "memberLimit": 10,
+    "groupLimit": 50,
+    "medialimitCount": "5",
+    "prefix": "/",
+    "vhtearkey": "Your Apikey In Here",
+    "apikeyz": "Your Apikey In Here",
+    "lolhuman": "Your Apikey In Here",
+    "apizeks": "Your Apikey In Here"
+}
 - 👋 Hi, I’m @adlofc123
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
